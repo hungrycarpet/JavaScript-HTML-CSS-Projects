@@ -41,7 +41,7 @@ A simple, user-friendly calculator web application built using JavaScript, HTML,
 * `script.js`: Contains the JavaScript code for the calculator's functionality.
 
 # Screenshots
-![Calculator Interface](Calculator/assets/calulator_screenshot.png "Calculator Interface")
+![Calculator Interface](./assets/calulator_screenshot.png "Calculator Interface")
 
 # Contact
 For any queries or feedback, please contact me at ***manasparasar@example.com***
