@@ -24,17 +24,20 @@ A simple, user-friendly calculator web application built using JavaScript, HTML,
 ## Setup
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/calculator.git
+    https://github.com/hungrycarpet/JavaScript-HTML-CSS-Projects.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd calculator
+    cd Calculator
     ```
 3. **Open `index.html` in your browser**:
     ```bash
     open index.html
     ```
-
+    
+## IDE used
+* Visual Studio Code
+  
 ## Project Structure
 * `index.html`: Contains the HTML structure of the calculator.
 * `style.css`: Contains the CSS styles for the calculator.
