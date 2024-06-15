@@ -57,7 +57,7 @@ The Expense Tracker is a sleek and user-friendly web application designed to hel
 ![Expense Tracker Interface](assets/screenshot.png "Expense Tracker Interface")
 
 # Contact
-For any queries or feedback, please contact me at ***manasparasar@example.com***
+For any queries or feedback, please contact me at ***manasparasar@gmail.com***
 
 # License
 MIT License
