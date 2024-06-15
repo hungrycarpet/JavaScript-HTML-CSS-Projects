@@ -47,7 +47,7 @@ A simple, user-friendly calculator web application built using JavaScript, HTML,
 ![Calculator Interface](assets/calculator_screenshot.png "Calculator Interface")
 
 # Contact
-For any queries or feedback, please contact me at ***manasparasar@example.com***
+For any queries or feedback, please contact me at ***manasparasar@gmail.com***
 
 # License
 MIT License
