@@ -39,11 +39,11 @@ The Expense Tracker is a sleek and user-friendly web application designed to hel
 ## Setup
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/expense-tracker.git
+    https://github.com/hungrycarpet/JavaScript-HTML-CSS-Projects.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
-    cd expense-tracker
+    cd Expense-Tracker
     ```
 3. **Open `index.html` in Your Browser**:
     ```bash
