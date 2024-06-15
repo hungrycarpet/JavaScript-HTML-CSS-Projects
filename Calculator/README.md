@@ -41,10 +41,10 @@ A simple, user-friendly calculator web application built using JavaScript, HTML,
 * `script.js`: Contains the JavaScript code for the calculator's functionality.
 
 # Screenshots
-![Calculator Interface](https://user-images.githubusercontent.com/yourusername/calculator.png "Calculator Interface")
+![Calculator Interface](./Calculator/assets/calculator_screenshot.png "Calculator Interface")
 
 # Contact
-For any queries or feedback, please contact me at ***your.email@example.com***
+For any queries or feedback, please contact me at ***manasparasar@example.com***
 
 # License
 MIT License
