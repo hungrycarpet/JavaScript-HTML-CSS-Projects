@@ -49,7 +49,7 @@ The Countdown to 2025 is an elegant and user-friendly web application designed t
 * `index.html`: Contains the entire application, including HTML structure, embedded CSS for styling, and embedded JavaScript for functionality.
 
 # Screenshots
-![Countdown to 2025 Interface](assets/counter screenshot.png "Countdown to 2025 Interface")
+![Countdown to 2025 Interface](assets/counter_screenshot.png "Countdown to 2025 Interface")
 
 # Contact
 For any queries or feedback, please contact me at ***manasparasar@gmail.com***
